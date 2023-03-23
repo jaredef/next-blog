@@ -33,6 +33,15 @@
   text-align: center;
 }
 
+.tagline {
+  line-height: 1rem;
+  font-size: 0.65rem;
+}
+
+.homeHeading {
+  margin: 2rem 0 0 0;
+  line-height: 2rem;
+}
 
 .description {
   line-height: 1.5;
